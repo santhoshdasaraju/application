@@ -1,1 +1,2 @@
 This is fileB
+This is change to the file.
